@@ -5,7 +5,7 @@ description: "A numpad"
 created_at: "2025-07-08"
 ---
 
-**Total time spent so far: 9hrs**
+**Total time spent so far: 10hrs**
 
 ## 8th July:
 >Alr so, This is not a submission for Hackpad.
@@ -58,4 +58,7 @@ created_at: "2025-07-08"
 
 ![](/images/firmware.png)
 
-**Time Spent: 3hrs**
+> Then I made the BOM and uploaded the files to github.
+>Finding the parts was such a headache.
+
+**Time Spent: 4hrs**
