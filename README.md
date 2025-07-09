@@ -1,5 +1,6 @@
 # Ani-Pad
-![image](images/img.png)
+![image](images/image.png)
+
 ### Why did I make it?
 As I already made hackpad So i wanna make sure that this submission is not hackpad
 This is a easier project for highway. So, i made this project cause I use a 60% keeb which does not have a numpad and I really needed that so i asked alex can i make one and got a yes so here we go
