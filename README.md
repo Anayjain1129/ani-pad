@@ -18,11 +18,11 @@ Features:
   
 ### Schematic
 ![image](images/sch.png)
----
+
 
 ### PCB 
 ![image](images/pcb.png)
----
+
 
 ### Case
 - Bottom
@@ -42,7 +42,6 @@ Features:
 ![image](images/7.png)
 ![image](images/8.png)
 ![image](images/9.png)
-![image](images/10.png)
 
 ### BOM
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                                                        |
