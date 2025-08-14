@@ -62,3 +62,15 @@ created_at: "2025-07-08"
 >Finding the parts was such a headache.
 
 **Time Spent: 4hrs**
+
+## 31th July:
+>So, I had received my PCB and built my project PHYSICALLY
+>First I did the diodes and then the MCU and then RE and at the last switches.
+>I know basics of soldering so, It wasn't really hard to do that. 
+>here are the pictures of the final project.
+
+![](/images/1.png)
+![](/images/2.png)
+![](/images/3.png)
+![](/images/4.png)
+![](/images/5.png)
