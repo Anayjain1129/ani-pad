@@ -44,6 +44,9 @@ Features:
 ![image](images/8.png)
 ![image](images/9.png)
 
+#Yoututb Link
+https://youtube.com/shorts/V-X0GS2zixY?si=X8VkAyLvjKdzDLy9
+
 ### BOM
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                                                        |
 | ------------------------------------------------------------- | --- | ----------------------- | ----------------------------------------------------------------------------------------------------------                  |
