@@ -69,8 +69,8 @@ created_at: "2025-07-08"
 >I know basics of soldering so, It wasn't really hard to do that. 
 >here are the pictures of the final project.
 
-![](/images/1.png)
-![](/images/2.png)
-![](/images/3.png)
-![](/images/4.png)
-![](/images/5.png)
+![](/images/1.jpeg)
+![](/images/2.jpeg)
+![](/images/3.jpeg)
+![](/images/4.jpeg)
+![](/images/5.jpeg)
