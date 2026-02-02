@@ -72,3 +72,6 @@ This Numpad comes out to be 6887 INR ($80.36) When ordering all the parts I'm no
 
 I want all the three 3D-printed parts to be printed in black color.
 The pricing might slightly vary due to flash sales, and dollar market trends.
+
+## Changes for reboot 
+https://drive.google.com/file/d/1S1DNsVMGy2zWwLPmCcZhrC4ZR8giEo4_/view?usp=sharing
